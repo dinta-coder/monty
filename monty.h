@@ -1,5 +1,4 @@
 #ifndef MONTY_H
-#define _GNU_SOURCE
 #define MONTY_H
 #include <stdio.h>
 #include <stdlib.h>
